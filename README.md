@@ -7,6 +7,8 @@ O projeto tem como objetivo montar uma página web que será a replica de um CV 
 
 ### ✅ Desenvolvendo Seu Curriculum Vitae Online:
 
+Link do Curriculum: https://viccttor.github.io/cv/
+
 Há várias formas de iniciar o desenvolvimento do seu projeto, como:
 
 - Fazer o Download da Pasta peLo GitHub: Faça o download da pasta pelo GitHub: você pode clicar no botão "Code" e depois em "Download ZIP"  para baixar uma cópia do projeto compactado em um arquivo ZIP. Basta  extrair os arquivos e começar a trabalhar.
